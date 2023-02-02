@@ -23,7 +23,7 @@ Heroku tidak menjamin 24 Jam ya Cuy!
 
 ## SETTING OWNER
 
-[`Click Disini`](https://github.com/MennMpaa/MennBotz/edit/master/FANGZ)
+[`Click Disini`](https://github.com/MennMpaa/MennBotz/blob/master/config.js)
 
 ## BUILDPACK HEROKU
 
