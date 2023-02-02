@@ -31,7 +31,7 @@ global.wktuwib = `${global.wibh} H ${global.wibm} M ${global.wibs} S`
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/k0nc1_store' //Instagram mu
-global.sgh = 'https://github.com/koncit' //Github mu
+global.sgh = 'https://github.com/MennMpaa' //Github mu
 global.swb = 'https://koncit.github.io/index'
 global.sfb = 'https://www.facebook.com/'
 global.syt = 'https://youtube.com/channel/UClfUAjgtQ19vGnUbkQxTuAg'
@@ -41,27 +41,27 @@ global.sdc = '-' //Discord Mu
 global.snh = '-' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '081261973803' //Dana
+global.pdana = '088298647652' //Dana
 global.povo = '-' //Ovo
-global.pgopay = '081364444859' //Gopay
-global.ppulsa = '081364444859' //Pulsa 
-global.ppulsa2 = '-' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
-global.psaweria = 'https://saweria.co/razulganteng' //Saweria
+global.pgopay = '088298647652' //Gopay
+global.ppulsa = '088298647652' //Pulsa 
+global.ppulsa2 = '081214040268' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.psaweria = '-' //Saweria
 global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n│┝‷✧ *Dana:* 081261973803\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6283841671487' //Nomor Bot mu
-global.nomorown = '6281364444859' //Nomormu
-global.namebot = 'Anya BOT' //Nama bot mu
-global.nameown = 'K o n c 1 t' //Nama mu
+global.nomorbot = '6281214040268' //Nomor Bot mu
+global.nomorown = '6288298647652' //Nomormu
+global.namebot = 'Menn BOTZ' //Nama bot mu
+global.nameown = 'Sukma X Sukmen' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.after = 'Bot by Koncit'
-global.swo = 'https://wa.me/6281364444859'
-global.author = '                © Anya BOT By Koncit' //Wm author
-global.botintro = 'Hallo, Kenalin saya Anya BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *KoncitXD* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
+global.swo = 'https://wa.me/6288298647652'
+global.author = '                © Menn BOTZ By Sukma' //Wm author
+global.botintro = 'Hallo, Kenalin saya Menn BOTZ Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *KoncitXD* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sallam = '💬 Waalaikumsallam'
 global.thumbBanned = 'https://telegra.ph/file/65b77b524d8a35f329122.jpg'
 global.thumbWarn = 'https://telegra.ph/file/bfd33b12a3367db7ba207.jpg'
@@ -85,15 +85,15 @@ global.guest = 'https://telegra.ph/file/e27e5468705a73de2328d.jpg'
 global.thumbmenfes = 'https://telegra.ph/file/b934539600579862f6137.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6281364444859'], //Owner1
+  ['6288298647652'], //Owner1
   [''], //Owner2
-  ['6281364444859', 'K 0 n C 1 T ! 🥶', true] //Ini buat kamu!
+  ['6289602523878', 'S U K M 4 ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.cheat = [] // ketik .cheat aja
 global.waifu = []
-global.prems = [] // Jangan di isi, Tambahin dari bot nya ketik .addprem @Fangz 15
+global.prems = [] // Jangan di isi, Tambahin dari bot nya ketik .addprem @MennXs
 
 
 /*⫘⫘⫘⫘ APIKEY ⫘⫘⫘⫘⫘*/
@@ -148,13 +148,13 @@ global.xckey = 'BOhjM2hUVn'
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 赤 Anya - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Koncit - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 Anya - BOT'
+global.wm = '                「 赤 Menn - BOTZ ⁩இ 」' //Wm
+global.wm2 = '➳༻❀Sukmen - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤 Menn - BOTZ'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗪𝗔𝗞𝗧𝗨 : ${wib}`
-global.titlebot = '𝗬𝗧: KoncitXD' //Ganti serah lu
+global.titlebot = '𝗬𝗧: MennKhece?' //Ganti serah lu
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
@@ -473,11 +473,11 @@ global.fsizedoc = '99999999999999' // 10TB
 global.fpagedoc = '999' //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = 'K 0 n C 1 T'
-global.umurowner = '-'
-global.asalowner = 'Tanjung Pinang, Kepulauan Riau'
-global.nomorowner = 'wa.me/6281364444859'
-global.pacarowner = 'Ga ada pacar'
+global.nameowner = 'S U K M 4'
+global.umurowner = '13'
+global.asalowner = 'Kab.Karawang, Jawa barat'
+global.nomorowner = 'wa.me/6288298647652'
+global.pacarowner = 'Mpaaa'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
 global.dmenut = 'ଓ═┅═━–〈' //top
@@ -507,9 +507,9 @@ global.fsizedoc = '1'.repeat(10)
 global.fpagedoc = '1'.repeat(10)
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = 'YT: KoncitOfc'
-global.stickauth = `© Anya BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
-global.packname = 'By KoncitOfc'
+global.stickpack = 'YT: MennKhece?'
+global.stickauth = `© Menn BOTZ\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.packname = 'By MennKhece'
 
 
 global.multiplier = 38 // The higher, The harder levelup
