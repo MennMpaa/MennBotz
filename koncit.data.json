@@ -42,7 +42,7 @@
     "processedHistoryMessages": [
       {
         "key": {
-          "remoteJid": "6283841671487@s.whatsapp.net",
+          "remoteJid": "6288298647652@s.whatsapp.net",
           "fromMe": true,
           "id": "0B844F1CDC0792B97FA96482EBCE00EB"
         },
@@ -69,13 +69,13 @@
       "deviceSignature": "TlJEzZsZi2Ri9uHxDDL9cRHdqQ4izMJx1zy15uDVAzljwwGUr1lBdm4Ps5uIl1sm2CZvbFYjY5GBRBw7zFwCig=="
     },
     "me": {
-      "id": "6283841671487:18@s.whatsapp.net",
-      "name": "Anya Bot"
+      "id": "6288298647652:18@s.whatsapp.net",
+      "name": "Menn Botz"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "6283841671487:18@s.whatsapp.net",
+          "name": "6288298647652:18@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -365,7 +365,7 @@
       "30": null
     },
     "sessions": {
-      "6283841671487.0": {
+      "6288298647652.0": {
         "_sessions": {
           "BccXxizfov5F6vsydqezB7kRS9pjBxSQBhHDYOMFlJYu": {
             "registrationId": 867593676,
@@ -415,7 +415,7 @@
         },
         "version": "v1"
       },
-      "6281362864713.0": {
+      "6288298647652.0": {
         "_sessions": {
           "BS2sKmVYV+0Ct+eaGbJIcIG9y/p+PqPhlwswAPmQ18F2": {
             "registrationId": 1172078963,
@@ -486,7 +486,7 @@
         },
         "version": "v1"
       },
-      "6285156556071.0": {
+      "6288298647652.0": {
         "_sessions": {
           "BQ8uUOj1l866+UZ8Xilon5aocTwMTCszg9WeKYVKXX8u": {
             "registrationId": 1675868186,
@@ -529,7 +529,7 @@
         },
         "version": "v1"
       },
-      "6281364444859.0": {
+      "6288298647652.0": {
         "_sessions": {
           "BXi0AwzeEQ6tLxgAFq1fePvpEpV1MBQPtxYrn0qy9Kgi": {
             "registrationId": 2137225004,
@@ -600,7 +600,7 @@
       }
     },
     "senderKeys": {
-      "120363044585796143@g.us::6285156556071::0": [
+      "120363044585796143@g.us::6288298647652::0": [
         {
           "senderKeyId": 99119248,
           "senderChainKey": {
